@@ -82,6 +82,14 @@ Bayan offers various functionalities, including:
 
 ---
 
+## Explore Bayan on Google Colab
+
+To explore the full details of the **Bayan Treebank** and interact with its extensive features, access our interactive Google Colab notebook. This notebook provides an easy-to-use interface for searching, analyzing, and learning more about the Diwan dataset.
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1c2AsPfdwj4ELEypTEmsSTewtVQ8MVXP3?usp=drive_link)
+
+---
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
