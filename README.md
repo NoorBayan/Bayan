@@ -90,12 +90,6 @@ To explore the full details of the **Bayan Treebank** and interact with its exte
 
 ---
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
----
-
 ## Contribution
 
 We welcome contributions! If you would like to contribute to Bayan, feel free to submit a pull request or open an issue.
