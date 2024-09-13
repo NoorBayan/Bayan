@@ -14,6 +14,8 @@
 - **Search and Filter**: Easily search for poems by poet, era, or specific linguistic features.
 - **Educational Tool**: A resource for students and researchers interested in Arabic syntax, morphology, and poetic structure.
 
+---
+
 ## Data Description
 Bayan provides a richly layered dataset, each layer offering a unique level of linguistic analysis. This multi-dimensional structure allows for a detailed examination of Arabic poetry, making it a valuable resource for researchers, linguists, and AI practitioners alike. The dataset is organized into three core layers, each focusing on a specific aspect of the text:
 
@@ -47,6 +49,7 @@ Bayan provides a richly layered dataset, each layer offering a unique level of l
 
 Together, these layers provide a comprehensive and nuanced linguistic analysis of Arabic poetry, allowing users to explore everything from high-level prosodic structures to fine-grained syntactic relations. Each layer is designed to complement the others, offering a cohesive framework for both linguistic research and advanced AI applications.
 
+---
 
 ## Methodology
 
@@ -68,6 +71,7 @@ The Bayan treebank was constructed based on the refined model. This involved cur
 ### Phase 4: Validation and Evaluation
 The final step involved validating the accuracy of the Bayan dataset. This was done through automatic grammar-based algorithms that ensured the syntactic annotations were consistent with the linguistic rules of Arabic.
 
+---
 
 ## Usage
 
@@ -75,6 +79,14 @@ Bayan offers various functionalities, including:
 - **Treebank Exploration**: Browse and explore the syntactic structure of poems.
 - **Search Tool**: Use linguistic queries to search specific poems by syntactic features.
 - **Custom Annotations**: Add or modify annotations to suit research needs.
+
+---
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
+---
 
 ## Contribution
 
