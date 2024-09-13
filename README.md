@@ -52,6 +52,10 @@ Together, these layers provide a comprehensive and nuanced linguistic analysis o
 
 The Bayan treebank was developed through a structured, four-phase process, ensuring high-quality linguistic data:
 
+ <p align="center"> 
+ <img src = "https://raw.githubusercontent.com/NoorBayan/Bayan/main/images/BayanMethodology.png" width = "400px"/>
+ </p>
+ 
 ### Phase 1: Data Selection
 The initial data for Bayan was selected from the **Quranic Treebank**, a well-established treebank for Classical Arabic. This provided a solid linguistic foundation for the syntactic structures required for analyzing Arabic poetry.
 
@@ -64,19 +68,6 @@ The Bayan treebank was constructed based on the refined model. This involved cur
 ### Phase 4: Validation and Evaluation
 The final step involved validating the accuracy of the Bayan dataset. This was done through automatic grammar-based algorithms that ensured the syntactic annotations were consistent with the linguistic rules of Arabic.
 
-## Getting Started
-
-### Prerequisites:
-- **Python 3.8+** 
-- **Pandas**, **NLTK**, and **spaCy** for linguistic processing and data manipulation.
-
-To install the required dependencies:
-
-
-
-## Data Structure:
-- **Poems**: A collection of classical and modern Arabic poems with full syntactic annotation.
-- **Syntax Trees**: Graphical representations stored as JSON files for easy parsing and manipulation.
 
 ## Usage
 
