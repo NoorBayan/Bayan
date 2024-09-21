@@ -89,7 +89,7 @@ To explore the full details of the **Bayan Treebank** and interact with its exte
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1c2AsPfdwj4ELEypTEmsSTewtVQ8MVXP3?usp=drive_link)
 
  <p align="center">
-   <img src = "https://raw.githubusercontent.com/NoorBayan/Bayan/main/images/BayanColab.png" width = "800px"/>
+   <img src = "https://raw.githubusercontent.com/NoorBayan/Bayan/main/images/ByanColab.png" width = "800px"/>
  </p>
 
 ### Steps to Use Bayan on Google Colab:
